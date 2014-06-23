@@ -1,5 +1,26 @@
 {
   "name": "angular-string-format",
   "version": "0.0.1",
-  "main": "./angular-string-format.js"
+  "main": "./angular-string-format.js",
+  "homepage": "https://github.com/ilovett/angular-string-format",
+  "authors": [
+    "Ian Lovett <i.c.lovett@gmail.com>"
+  ],
+  "description": "Provides some string formatting helpers and filters.",
+  "keywords": [
+    "angular",
+    "string",
+    "format",
+    "sformat",
+    "sprintf",
+    "printf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
